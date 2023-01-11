@@ -1,0 +1,9 @@
+boto3
+csv
+ipaddress
+argparse
+logging
+sys
+subprocess
+os
+pandas
